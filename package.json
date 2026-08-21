@@ -19,15 +19,15 @@
 	"main": "index",
 	"dependencies": {
 		"@patrickkfkan/peer-ssdp": "^0.1.0",
-		"cors": "^2.8.5",
-		"ejs": "^3.1.9",
+		"cors": "^2.8.6",
+		"ejs": "^6.0.1",
 		"gate": "^0.3.0",
-		"uuid": "^9.0.0",
+		"uuid": "^14.0.2",
 		"xml2js": "^0.6.2"
 	},
 	"devDependencies": {
-		"express": "^4.18.2",
-		"open": "6.4.0"
+		"express": "^5.2.1",
+		"open": "11.0.1"
 	},
 	"repository": "https://github.com/patrickkfkan/peer-dial.git"
 }
